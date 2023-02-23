@@ -30,6 +30,15 @@ namespace MyClass
             t2.Area();
             t2.Check();
 
+            //Вариант 4 (ДЗ):
+            IntVector iv1 = new IntVector(Convert.ToInt32(Console.ReadLine())); //размерность массива задаётся из консоли
+            iv1.ReadArray();
+            iv1.PrintArray();
+            iv1.SortArray();
+            iv1.PrintArray();
+            iv1.MultArray(); //метод для умножения каждого элемента массива на скаляр
+            iv1.PrintArray();
+
             Console.ReadKey();
         }
     }
