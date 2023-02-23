@@ -1,12 +1,53 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 
 namespace MyClass
 {
     internal class IntVector
     {
+        private int[] IntArray;
+        private int n;
+        public int Length { 
+            get { return n; }
+            set { n = value; }
+        }
+
+        public IntVector(int n)
+        {
+            this.n = n;
+            IntArray = new int[n];
+        }
+
+        public void ReadArray()
+        {
+            Console.WriteLine("\nЗаполните массив:");
+            for (int i = 0; i < n; i++)
+            {
+                IntArray[i] = int.Parse(Console.ReadLine());
+            }
+        }
+
+        public void PrintArray()
+        {
+            Console.WriteLine("\nЭлементы массива:");
+            for (int i = 0; i < n; i++)
+            {
+                Console.WriteLine(IntArray[i]);
+            }
+        }
+
+        public void SortArray()
+        {
+            Array.Sort(IntArray);
+        }
+
+        public void MultArray()
+        {
+            Console.WriteLine("Ввелите целочисленный скаляр");
+            int scalar = Convert.ToInt32(Console.ReadLine());
+            for (int i = 0; i < n; i++)
+            {
+                IntArray[i] *= scalar;
+            }
+        }
     }
 }
