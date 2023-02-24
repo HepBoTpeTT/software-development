@@ -35,7 +35,7 @@ namespace MyClass
         public void Check()
         {
             bool check_flag  = false;
-            if ((a+b<c) & (c + b < a) & (c + a < b))
+            if ((a + b > c) & (c + b > a) & (c + a > b))
             {
                 check_flag = true;
             }
