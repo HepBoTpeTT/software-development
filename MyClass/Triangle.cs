@@ -8,9 +8,6 @@ namespace MyClass
         private double b; //сторона2
         private double c; //сторона3
 
-        public Triangle()
-        {
-        }
         public Triangle(double a, double b, double c)
         {
             this.a = a;
