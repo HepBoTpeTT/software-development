@@ -1,8 +1,0 @@
-C:\Users\Денис\Desktop\MyClass\MyClass\bin\Release\MyClass.exe.config
-C:\Users\Денис\Desktop\MyClass\MyClass\bin\Release\MyClass.exe
-C:\Users\Денис\Desktop\MyClass\MyClass\bin\Release\MyClass.pdb
-C:\Users\Денис\Desktop\MyClass\MyClass\obj\Release\MyClass.csproj.AssemblyReference.cache
-C:\Users\Денис\Desktop\MyClass\MyClass\obj\Release\MyClass.csproj.SuggestedBindingRedirects.cache
-C:\Users\Денис\Desktop\MyClass\MyClass\obj\Release\MyClass.csproj.CoreCompileInputs.cache
-C:\Users\Денис\Desktop\MyClass\MyClass\obj\Release\MyClass.exe
-C:\Users\Денис\Desktop\MyClass\MyClass\obj\Release\MyClass.pdb
