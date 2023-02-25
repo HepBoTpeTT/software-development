@@ -1,0 +1,15 @@
+C:\Users\Денис\Desktop\MyClass\MyClass\bin\Debug\MyClass.exe.config
+C:\Users\Денис\Desktop\MyClass\MyClass\bin\Debug\MyClass.exe
+C:\Users\Денис\Desktop\MyClass\MyClass\bin\Debug\MyClass.pdb
+C:\Users\Денис\Desktop\MyClass\MyClass\obj\Debug\MyClass.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\MyClass\MyClass\obj\Debug\MyClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Денис\Desktop\MyClass\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\MyClass\MyClass\obj\Debug\MyClass.exe
+C:\Users\Денис\Desktop\MyClass\MyClass\obj\Debug\MyClass.pdb
+C:\Users\mkmtst\Desktop\software-development-main\MyClass\bin\Debug\MyClass.exe.config
+C:\Users\mkmtst\Desktop\software-development-main\MyClass\bin\Debug\MyClass.exe
+C:\Users\mkmtst\Desktop\software-development-main\MyClass\bin\Debug\MyClass.pdb
+C:\Users\mkmtst\Desktop\software-development-main\MyClass\obj\Debug\MyClass.csprojAssemblyReference.cache
+C:\Users\mkmtst\Desktop\software-development-main\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+C:\Users\mkmtst\Desktop\software-development-main\MyClass\obj\Debug\MyClass.exe
+C:\Users\mkmtst\Desktop\software-development-main\MyClass\obj\Debug\MyClass.pdb
