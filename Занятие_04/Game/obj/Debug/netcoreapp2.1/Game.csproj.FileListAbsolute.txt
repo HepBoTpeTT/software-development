@@ -1,0 +1,11 @@
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.deps.json
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.json
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.dev.json
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.dll
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.pdb
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.csprojAssemblyReference.cache
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfoInputs.cache
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfo.cs
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.dll
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.pdb
