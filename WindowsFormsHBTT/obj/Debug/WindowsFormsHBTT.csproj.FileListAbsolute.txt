@@ -1,0 +1,10 @@
+C:\Users\mkmtst\source\repos\WindowsFormsHBTT\bin\Debug\WindowsFormsHBTT.exe.config
+C:\Users\mkmtst\source\repos\WindowsFormsHBTT\bin\Debug\WindowsFormsHBTT.exe
+C:\Users\mkmtst\source\repos\WindowsFormsHBTT\bin\Debug\WindowsFormsHBTT.pdb
+C:\Users\mkmtst\source\repos\WindowsFormsHBTT\obj\Debug\WindowsFormsHBTT.csprojAssemblyReference.cache
+C:\Users\mkmtst\source\repos\WindowsFormsHBTT\obj\Debug\WindowsFormsHBTT.Properties.Resources.resources
+C:\Users\mkmtst\source\repos\WindowsFormsHBTT\obj\Debug\WindowsFormsHBTT.csproj.GenerateResource.cache
+C:\Users\mkmtst\source\repos\WindowsFormsHBTT\obj\Debug\WindowsFormsHBTT.csproj.CoreCompileInputs.cache
+C:\Users\mkmtst\source\repos\WindowsFormsHBTT\obj\Debug\WindowsFormsHBTT.exe
+C:\Users\mkmtst\source\repos\WindowsFormsHBTT\obj\Debug\WindowsFormsHBTT.pdb
+C:\Users\mkmtst\source\repos\WindowsFormsHBTT\obj\Debug\WindowsFormsHBTT.frmРедактор.resources
