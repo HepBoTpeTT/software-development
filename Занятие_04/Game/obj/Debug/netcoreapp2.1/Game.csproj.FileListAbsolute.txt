@@ -1,0 +1,24 @@
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.deps.json
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.json
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.dev.json
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.dll
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.pdb
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.csprojAssemblyReference.cache
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfoInputs.cache
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfo.cs
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.dll
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.pdb
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.deps.json
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.json
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.dev.json
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.dll
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\bin\Debug\netcoreapp2.1\Game.pdb
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfo.cs
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.dll
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.pdb
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\Game\obj\Debug\netcoreapp2.1\Game.genruntimeconfig.cache

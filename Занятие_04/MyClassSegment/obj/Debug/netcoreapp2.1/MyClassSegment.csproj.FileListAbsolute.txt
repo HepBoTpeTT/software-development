@@ -1,0 +1,24 @@
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\MyClassSegment\bin\Debug\netcoreapp2.1\MyClassSegment.deps.json
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\MyClassSegment\bin\Debug\netcoreapp2.1\MyClassSegment.runtimeconfig.json
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\MyClassSegment\bin\Debug\netcoreapp2.1\MyClassSegment.runtimeconfig.dev.json
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\MyClassSegment\bin\Debug\netcoreapp2.1\MyClassSegment.dll
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\MyClassSegment\bin\Debug\netcoreapp2.1\MyClassSegment.pdb
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.csprojAssemblyReference.cache
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.csproj.CoreCompileInputs.cache
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.AssemblyInfoInputs.cache
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.AssemblyInfo.cs
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.dll
+C:\Users\mkmtst\Desktop\software-development-main\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.pdb
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\bin\Debug\netcoreapp2.1\MyClassSegment.deps.json
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\bin\Debug\netcoreapp2.1\MyClassSegment.runtimeconfig.json
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\bin\Debug\netcoreapp2.1\MyClassSegment.runtimeconfig.dev.json
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\bin\Debug\netcoreapp2.1\MyClassSegment.dll
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\bin\Debug\netcoreapp2.1\MyClassSegment.pdb
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.AssemblyInfo.cs
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.dll
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.pdb
+C:\Users\Денис\Desktop\CS Golgi\Занятие_04\MyClassSegment\obj\Debug\netcoreapp2.1\MyClassSegment.genruntimeconfig.cache
