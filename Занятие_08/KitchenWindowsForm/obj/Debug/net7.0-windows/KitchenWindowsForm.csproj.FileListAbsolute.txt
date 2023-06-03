@@ -1,0 +1,17 @@
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\obj\Debug\net7.0-windows\KitchenWindowsForm.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\obj\Debug\net7.0-windows\KitchenWindowsForm.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\obj\Debug\net7.0-windows\KitchenWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\obj\Debug\net7.0-windows\KitchenWindowsForm.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\obj\Debug\net7.0-windows\KitchenWindowsForm.AssemblyInfo.cs
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\obj\Debug\net7.0-windows\KitchenWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\bin\Debug\net7.0-windows\KitchenWindowsForm.exe
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\bin\Debug\net7.0-windows\KitchenWindowsForm.deps.json
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\bin\Debug\net7.0-windows\KitchenWindowsForm.runtimeconfig.json
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\bin\Debug\net7.0-windows\KitchenWindowsForm.dll
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\bin\Debug\net7.0-windows\KitchenWindowsForm.pdb
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\obj\Debug\net7.0-windows\KitchenWindowsForm.frmРесторан.resources
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\obj\Debug\net7.0-windows\KitchenWindowsForm.dll
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\obj\Debug\net7.0-windows\refint\KitchenWindowsForm.dll
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\obj\Debug\net7.0-windows\KitchenWindowsForm.pdb
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\obj\Debug\net7.0-windows\KitchenWindowsForm.genruntimeconfig.cache
+C:\Users\Денис\Desktop\CS Golgi\Занятие_08\KitchenWindowsForm\obj\Debug\net7.0-windows\ref\KitchenWindowsForm.dll
